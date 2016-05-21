@@ -6,7 +6,7 @@ import (
 	"runtime"
 	"strings"
 
-	ldap "github.com/vjeantet/goldap/message"
+	ldap "github.com/rabarar/goldap/message"
 )
 
 // Constant to LDAP Request protocol Type names
